@@ -3,8 +3,11 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-![city sushi](city-sushi.png)
+# Usage
 
+Welcome to City Sushi. Can I take er order prease?
+
+![city sushi](city-sushi.png)
 
 ## License
 
