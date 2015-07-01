@@ -3,7 +3,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-# Usage
+## Usage
 
 Welcome to City Sushi. Can I take er order prease?
 
